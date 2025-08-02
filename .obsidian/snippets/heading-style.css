@@ -1,0 +1,9 @@
+/* プレビュー用の h2 見出しに装飾 */
+.markdown-preview-view h2 {
+  border-left: 6px solid #4f9cd6;
+  padding-left: 10px;
+  background-color: #f4faff;
+  margin-top: 1.5em;
+  font-weight: bold;
+  color: #2a5a8c;
+}
