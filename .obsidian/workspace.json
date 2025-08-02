@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "aaslkdja;lskdnasl;.kmjdnas;jold.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -150,33 +150,56 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "aaslkdja;lskdnasl;.kmjdnas;jold.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "aaslkdja;lskdnasl;.kmjdnas;joldのアウトライン"
+            }
+          },
+          {
+            "id": "9994e88d778cf505",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "86a823f539d6f8ef",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8/bW9kZWw9Z3B0LTRv",
+              "state": {},
+              "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8/bW9kZWw9Z3B0LTRv",
+              "title": "ChatgGPT"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 786.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
+      "open-gate:ChatgGPT": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "33260ca3b1beb9fb",
+  "active": "86a823f539d6f8ef",
   "lastOpenFiles": [
     "Welcome.md",
     "aaslkdja;lskdnasl;.kmjdnas;jold.md",
