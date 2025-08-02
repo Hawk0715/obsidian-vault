@@ -2,7 +2,8 @@
   "theme": "obsidian",
   "cssTheme": "Atom",
   "enabledCssSnippets": [
-    "dataview-cards"
+    "dataview-cards",
+    "two-column"
   ],
   "accentColor": "#540aff"
 }

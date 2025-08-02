@@ -1,25 +1,50 @@
-/* Dataview list: 縦型カードビュー */
+/* Dataview list: 縦型カードビュー改良版 */
 .dataview.list-view-ul {
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  margin: 0;
+  gap: 8px;
+  padding: 0;
   list-style-type: none;
-  width: 50%;
+  width: 100%; /* 必要に応じて50%などに変更可 */
+  max-width: 700px;
+  margin: 0 auto; /* 中央寄せ */
 }
 
+/* 各リストアイテムをカード風に */
 .dataview.list-view-ul > li {
   background-color: #ffffff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 5px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  transition: background 0.2s ease, transform 0.2s ease;
-  font-size: 10x;
-  margin: 0px;;
+  border: 1px solid #dcdcdc;
+  border-radius: 12px;
+  padding: 12px 16px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  font-size: 0.95rem;
+  color: #333;
 }
 
+/* ホバー時の動き */
 .dataview.list-view-ul > li:hover {
-  background-color: #f7faff;
-  transform: translateY(-1px);
+  background-color: #f2f8ff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* カード内リンクのスタイル */
+.dataview.list-view-ul > li a {
+  color: #1a1a1a;
+  text-decoration: none;
+  font-weight: 500;
+  display: block;
+}
+
+/* ホバー時リンクの色変化 */
+.dataview.list-view-ul > li a:hover {
+  color: #1a73e8;
+}
+
+/* オプション：内部コードブロックやタグのマージン補正 */
+.dataview.list-view-ul > li code,
+.dataview.list-view-ul > li .tag {
+  margin-top: 4px;
+  display: inline-block;
 }
