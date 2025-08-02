@@ -1,7 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Atom",
   "enabledCssSnippets": [
     "dataview-cards"
-  ]
+  ],
+  "accentColor": "#540aff"
 }
