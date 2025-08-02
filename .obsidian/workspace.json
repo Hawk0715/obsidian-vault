@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "g",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +128,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false,
-                "showSearch": true,
-                "searchQuery": "ファイル"
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "タグ"
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aaslkdja;lskdnasl;.kmjdnas;jold.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "aaslkdja;lskdnasl;.kmjdnas;joldのアウトライン"
+              "title": "Homeのアウトライン"
             }
           },
           {
@@ -171,11 +171,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,24 +191,25 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "ff089c4118cfa669",
+  "active": "33260ca3b1beb9fb",
   "lastOpenFiles": [
-    "無題のファイル.md",
-    "Home.md",
-    "Pasted image 20250802185707.png",
-    "業務メモ/2025-08-02(土).md",
-    "無題のフォルダ",
+    "2025-08-02(土).md",
+    "Templates/業務メモテンプレート.md",
     "業務マニュアル/稟議書作成.md",
-    "業務マニュアル/電話対応.md",
+    "業務メモ/2025-08-02(土) - コピー.md",
     "業務マニュアル/月初作業.md",
+    "業務マニュアル/電話対応.md",
+    "Home.md",
+    "無題のファイル.md",
+    "Pasted image 20250802185707.png",
+    "無題のフォルダ 1",
+    "業務メモ/無題のファイル 1.md",
+    "業務メモ/無題のファイル.md",
+    "無題のフォルダ",
     "業務マニュアル",
     "業務メモ.md",
     "daily-notes.md",
-    "業務メモ/2025-08-02(土) - コピー.md",
     "業務メモ/無題のファイル 2.md",
-    "業務メモ/無題のファイル 1.md",
-    "業務メモ/無題のファイル.md",
-    "Templates/業務メモテンプレート.md",
     "業務メモ/新規 テキスト ドキュメント.txt",
     "無題のファイル 1.md",
     "業務メモ",
