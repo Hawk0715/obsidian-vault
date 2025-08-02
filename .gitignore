@@ -1,0 +1,17 @@
+# 除外対象
+*.log
+*.pkl
+*.ini
+*.DS_Store
+*.auth_token
+*.dat
+AppData/
+.gradle/
+.android/
+.cache/
+.vscode/
+Desktop/
+Downloads/
+Pictures/
+Videos/
+Documents/
