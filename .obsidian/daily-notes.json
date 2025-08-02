@@ -1,0 +1,5 @@
+{
+  "format": "YYYY-MM-DD(ddd)",
+  "template": "Templates/業務メモテンプレート",
+  "folder": "業務メモ"
+}

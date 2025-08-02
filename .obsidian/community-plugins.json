@@ -1,8 +1,8 @@
 [
-  "google-drive-sync",
   "obsidian-git",
   "obsidian-kanban",
   "calendar",
   "obsidian-icon-folder",
-  "open-gate"
+  "open-gate",
+  "dataview"
 ]
