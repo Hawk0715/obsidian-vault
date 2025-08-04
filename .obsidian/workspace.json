@@ -189,9 +189,19 @@
               "icon": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8/bW9kZWw9Z3B0LTRv",
               "title": "ChatgGPT"
             }
+          },
+          {
+            "id": "c1620acda07f747c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
