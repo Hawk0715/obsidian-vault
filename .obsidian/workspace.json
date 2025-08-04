@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "業務メモ/2025-08-03(日).md",
+                "file": "業務マニュアル/月初作業.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-03(日)"
+              "title": "月初作業"
             }
           },
           {
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 707.5
+    "width": 200
   },
   "right": {
     "id": "ecbff33399ba5f1c",
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 780.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +213,9 @@
   },
   "active": "77a260de303e9e37",
   "lastOpenFiles": [
-    "業務メモ/2025-08-02(土).md",
+    "業務メモ/2025-08-04(月).md",
     "業務メモ/2025-08-03(日).md",
+    "業務メモ/2025-08-02(土).md",
     "Home.md",
     "Excalidraw/Drawing 2025-08-02 21.33.54.excalidraw.md",
     "無題のファイル.canvas",
