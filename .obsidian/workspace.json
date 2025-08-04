@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 707.5
   },
   "right": {
     "id": "ecbff33399ba5f1c",
@@ -202,12 +202,12 @@
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
-      "open-gate:ChatgGPT": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
+      "open-gate:ChatgGPT": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
