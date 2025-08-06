@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "業務マニュアル/稟議書作成.md",
+                "file": "業務メモ/2025-08-06(水).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "稟議書作成"
+              "title": "2025-08-06(水)"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "5b00a24c7e003dfc",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "33260ca3b1beb9fb",
@@ -79,6 +80,7 @@
       {
         "id": "4e3a1d1139cf75b3",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "9994e88d778cf505",
@@ -209,10 +211,10 @@
   },
   "active": "77a260de303e9e37",
   "lastOpenFiles": [
-    "業務メモ/2025-08-06(水).md",
-    "業務メモ/2025-08-05(火).md",
     "業務メモ/2025-08-04(月).md",
     "業務マニュアル/稟議書作成.md",
+    "業務メモ/2025-08-06(水).md",
+    "業務メモ/2025-08-05(火).md",
     "業務メモ/2025-08-02(土).md",
     "業務メモ/2025-08-03(日).md",
     "Home.md",
