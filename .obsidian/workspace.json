@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "ecbff33399ba5f1c",
@@ -210,7 +210,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77a260de303e9e37",
+  "active": "9994e88d778cf505",
   "lastOpenFiles": [
     "業務メモ/2025-08-08(金).md",
     "業務メモ/2025-08-11(月).md",
