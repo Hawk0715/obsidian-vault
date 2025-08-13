@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "業務メモ/2025-08-06(水).md",
+                "file": "業務メモ/2025-08-13(水).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-06(水)"
+              "title": "2025-08-13(水)"
             }
           }
         ]
@@ -210,13 +210,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1aa2d3c9f2db7c50",
+  "active": "77a260de303e9e37",
   "lastOpenFiles": [
+    "業務メモ/2025-08-06(水).md",
+    "業務メモ/2025-08-13(水).md",
     "業務メモ/2025-08-11(月).md",
     "業務メモ/2025-08-08(金).md",
     "業務メモ/2025-08-07(木).md",
     "conflict-files-obsidian-git.md",
-    "業務メモ/2025-08-06(水).md",
     "業務マニュアル/月初作業.md",
     "業務マニュアル/稟議書作成.md",
     "業務メモ/2025-08-04(月).md",
@@ -246,7 +247,6 @@
     "業務メモ",
     "Templates",
     "Welcome.md",
-    "aaslkdja;lskdnasl;.kmjdnas;jold.md",
     "無題のファイル 1.canvas"
   ]
 }
