@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🪛",
+      "LiSettings",
+      "🌞",
       "📂",
-      "🈷",
-      "☎",
-      "🗓",
-      "🏠"
+      "🈷"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "業務マニュアル": "📝",
   "業務マニュアル/電話対応.md": "☎",
   "業務マニュアル/月初作業.md": "🈷",
-  "Templates": "📂"
+  "Templates": "📂",
+  "業務マニュアル/早番作業.md": "🌞",
+  "業務マニュアル/月次メンテ案内メール.md": "🪛"
 }
