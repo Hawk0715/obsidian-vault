@@ -218,11 +218,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +240,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "936e9231b05a017f",
+  "active": "c1620acda07f747c",
   "lastOpenFiles": [
     "業務メモ/2025-08-21(木).md",
     "業務メモ/2025-08-22(金).md",
