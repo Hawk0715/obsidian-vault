@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "業務メモ/2025-08-25(月).md",
+                "file": "業務メモ/2025-08-26(火).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-25(月)"
+              "title": "2025-08-26(火)"
             }
           }
         ],
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +240,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1aa2d3c9f2db7c50",
+  "active": "936e9231b05a017f",
   "lastOpenFiles": [
-    "業務メモ/2025-08-22(金).md",
     "業務メモ/2025-08-25(月).md",
+    "業務メモ/2025-08-26(火).md",
+    "業務メモ/2025-08-22(金).md",
     "業務メモ/2025-08-21(木).md",
     "業務メモ/2025-08-20(水).md",
     "業務メモ/2025-08-15(金).md",
@@ -269,7 +270,6 @@
     "無題のファイル.canvas",
     "Excalidraw",
     "Templates/業務メモテンプレート.md",
-    "業務メモ/2025-08-02(土) - コピー.md",
     "Pasted image 20250802185707.png",
     "無題のフォルダ 1",
     "無題のフォルダ",
