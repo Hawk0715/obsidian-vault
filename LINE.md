@@ -1,7 +1,7 @@
-Seach.cshtml
-InquiryReplyControlloer.cs
-	public ActionResult SearchResultメソッド
-		SearchInquiry:検索をするメソッド。引数はけんさくじょうけん
-				SearchINquiryThreadsBy:スレッドを検索するメソッド
-			
-			
+LINE連携が変わるタイミング：LINE案内を送って顧客が連携をしたとき
+担当設定は担当営業員ができたタイミング
+
+
+疑問点
+一人の顧客に複数のLINEアカウントを連携することは可能なのか？
+(一つのLOGIN_IDに対してDB上では)
