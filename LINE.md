@@ -37,9 +37,9 @@ LINEの1系
 
 **顧客**
 顧客名：テスト用顧客(TCS開発用3)
-顧客ID：BBBBBxg
+顧客ID：tcs_kaihatsu03
 メールアドレス：tcs_kaihatsu03@icloud.com
-パスワード：8fYFpcuVXk
+パスワード：tcs_kaihatsu03
 紐づいているIphone:TCS開発用3
 
 
