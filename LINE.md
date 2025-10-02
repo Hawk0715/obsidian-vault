@@ -27,6 +27,22 @@ LIN
 対面営業監視端末#1
 LINEの1系
 
+検証用アカウント
+**営業員**
+営業員名：テスト営業員(TCS開発用1)
+ログインID：z2BghfQq
+メールアドレス：tcs_kaihatsu01@icloud.com
+パスワード：aAev5mrt5G
+紐づいているIphone:TCS開発用1
+
+**顧客**
+顧客名：テスト用顧客(TCS開発用3)
+顧客ID：BBBBBxg
+メールアドレス：tcs_kaihatsu03@icloud.com
+パスワード：8fYFpcuVXk
+紐づいているIphone:TCS開発用3
+
+
 
 
 
