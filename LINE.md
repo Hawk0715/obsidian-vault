@@ -26,16 +26,25 @@ LIN
 検証用LINE DB
 対面営業監視端末#1
 LINEの1系
-
+本支店員サイト
+[ログイン](https://line.ir-service.net/Login/Admin/ABC/0)
+営業員
+[ログイン](https://line.ir-service.net/Login/SalesRep/ABC/0)
 検証用アカウント
 **営業員**
-営業員名：テスト営業員(TCS開発用1)
-ログインID：z2BghfQq
-メールアドレス：tcs_kaihatsu01@icloud.com
-パスワード：aAev5mrt5G
-紐づいているIphone:TCS開発用1
+営業員名：テスト用営業員01
+ログインID：salesRep01
+メールアドレス：salesRep01@example.com
+パスワード：salesRep01
+
 
 **顧客**
+営業員名：テスト用顧客(TCS開発用1)
+顧客ID：tcs_kaihatsu01
+メールアドレス：tcs_kaihatsu01@icloud.com
+パスワード：tcs_kaihatsu01
+紐づいているIphone:TCS開発用1
+
 顧客名：テスト用顧客(TCS開発用3)
 顧客ID：tcs_kaihatsu03
 メールアドレス：tcs_kaihatsu03@icloud.com
