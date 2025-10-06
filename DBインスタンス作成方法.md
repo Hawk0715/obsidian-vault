@@ -5,6 +5,10 @@ sqlサーバー認証
 sa
 bcEI#tcs
 
+LINE
+サーバIP:172.19.221.32
+LIN
+LIN
 
 
 **バックアップを取る**
