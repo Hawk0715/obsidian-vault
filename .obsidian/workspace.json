@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "業務マニュアル/月次タスク.md",
+                "file": "Templates/業務メモテンプレート.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "月次タスク"
+              "title": "業務メモテンプレート"
             }
           }
         ],
@@ -313,11 +313,11 @@
   },
   "active": "865332728ef2c107",
   "lastOpenFiles": [
+    "業務マニュアル/月次タスク.md",
     "業務マニュアル/月次メンテ案内メール送付.md",
     "LINE.md",
     "DBインスタンス作成方法.md",
     "業務マニュアル/稟議書作成.md",
-    "業務マニュアル/月次タスク.md",
     "無題のファイル.md",
     "Templates/業務メモテンプレート.md",
     "業務マニュアル/早番作業.md",
