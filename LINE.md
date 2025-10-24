@@ -46,7 +46,7 @@ webサーバ
 ②系：SP01WE01B(対面_IIS#2) 172.26.8.32
 
 検証環境
-一系：ST01WE001(JPXウェブサイト、LINE検証).bat
+一系：ST01WE001(JPXウェブサイト、LINE検証).bat 192.168.141.35
 二系：ST01WE002(JPXウェブサイト、LINE検証).bat
 
 
