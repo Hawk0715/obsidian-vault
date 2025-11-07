@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "send",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,14 +312,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2e4241de64cdc376",
+  "active": "fcadce516a1c3f5e",
   "lastOpenFiles": [
+    "Templates/業務メモテンプレート.md",
+    "業務マニュアル/月次タスク.md",
     "業務メモ/2025-08-07(木).md",
     "無題のファイル.md",
     "業務マニュアル/月次メンテ案内メール送付.md",
-    "業務マニュアル/月次タスク.md",
     "業務マニュアル/r.md",
-    "Templates/業務メモテンプレート.md",
     "無題のファイル 1.md",
     "LINE.md",
     "DBインスタンス作成方法.md",
