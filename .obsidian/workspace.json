@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "b3059ba986517c86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "936e9231b05a017f",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -311,7 +323,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fcadce516a1c3f5e",
+  "active": "b3059ba986517c86",
   "lastOpenFiles": [
     "業務マニュアル/早番作業.md",
     "業務マニュアル/稟議書作成.md",
