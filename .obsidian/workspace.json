@@ -90,6 +90,18 @@
             }
           },
           {
+            "id": "b32ff2dbb0dd3c5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "0521113142c38a2a",
             "type": "leaf",
             "state": {
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -351,7 +363,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77a260de303e9e37",
+  "active": "b32ff2dbb0dd3c5f",
   "lastOpenFiles": [
     "業務マニュアル/月次タスク.md",
     "業務マニュアル/月次メンテ案内メール送付.md",
